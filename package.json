@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "cypress": "^13.7.3",
+    "latest": "^0.2.0"
+  }
+}
