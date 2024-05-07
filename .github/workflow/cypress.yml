@@ -1,4 +1,4 @@
-name: Run Cypress Tests
+name: Cypress Tests
 
 on:
   push:
@@ -9,7 +9,7 @@ on:
       - main
 
 jobs:
-  test:
+  build:
     runs-on: ubuntu-latest
 
     steps:
